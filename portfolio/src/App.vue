@@ -316,7 +316,6 @@ links.forEach(link => {
 
 .full-width{
   width: 100%;
-  opacity: 0;
   transition: opacity 1s ease-in-;
 }
 
@@ -1313,7 +1312,6 @@ contact me desktop */
   height: 520px;
   display: flex;
   position: absolute;
-  background-image: url('');
   background-position: center;
   z-index:0;
 
@@ -1325,7 +1323,6 @@ contact me desktop */
   height: 520px;
   display: flex;
   position: absolute;
-  background-image: url('');
   background-position: center;
   z-index:1;
 
